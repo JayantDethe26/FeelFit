@@ -1,0 +1,9 @@
+flask
+python-dotenv
+pymupdf
+langchain-groq
+huggingface-hub
+langchain-chroma
+langchain
+langchain-community  # Add this line
+langchain-core       # Add this line
